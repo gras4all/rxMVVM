@@ -1,0 +1,6 @@
+framework module Pods_boardshop_boardshopUITests {
+  umbrella header "Pods-boardshop-boardshopUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
